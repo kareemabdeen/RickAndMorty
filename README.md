@@ -1,5 +1,5 @@
 
-- Used Flutter with BLoC pattern to show some info. about my favorite series :clapper: Breaking Bad. 
+- Used Flutter with BLoC pattern to show some info. about my favorite series :clapper: Rick And Morty. 
 - Played with some fancy UI widgets.
 
 
