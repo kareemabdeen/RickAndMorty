@@ -496,14 +496,6 @@ packages:
       url: "https://pub.flutter-io.cn"
     source: hosted
     version: "2.1.4"
-  web:
-    dependency: transitive
-    description:
-      name: web
-      sha256: edc8a9573dd8c5a83a183dae1af2b6fd4131377404706ca4e5420474784906fa
-      url: "https://pub.flutter-io.cn"
-    source: hosted
-    version: "0.4.0"
   win32:
     dependency: transitive
     description:
@@ -529,5 +521,5 @@ packages:
     source: hosted
     version: "3.1.2"
 sdks:
-  dart: ">=3.2.0-194.0.dev <4.0.0"
+  dart: ">=3.2.0-15.0.dev <4.0.0"
   flutter: ">=3.10.0"
