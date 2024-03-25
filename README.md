@@ -18,17 +18,23 @@
 
 
 # :iphone: Screens
+
+ ## :house: Splash  Screen
+ ![Screenshot_20240325-162811](https://github.com/kareemabdeen/RickAndMorty/assets/118139061/36d71c12-04d8-4a9a-96fd-8601fd510245)
+
+ 
  ## :house: Home Screen
 
 - Used Dio to fetch data.
 
+![Screenshot_20240325-162710](https://github.com/kareemabdeen/RickAndMorty/assets/118139061/cc0efa6b-c454-4f04-81f3-852cddd33d5b)
 
-![hh](https://user-images.githubusercontent.com/38296077/126984656-315e6b82-5dd2-42f8-9146-d4e37cbf4e38.jpeg)
-
+ ## :house: Search  Screen
 - Filter list by searching character's name.
 
 
-![hhhg](https://user-images.githubusercontent.com/38296077/126984677-644fabb8-76ea-48a9-a6eb-d5901bcb85cb.jpeg)
+![Screenshot_20240325-162731](https://github.com/kareemabdeen/RickAndMorty/assets/118139061/06bf3213-f31d-429c-9db9-3b77517b4859)
+
 
 
 - Check internet connection
@@ -39,11 +45,12 @@
 
 ## :mag: Details Screen
 
-- Used Hero animation widget and animated text kit.
+- Used Hero animation widget .
+![Screenshot_20240325-162716](https://github.com/kareemabdeen/RickAndMorty/assets/118139061/806cd966-079a-4ab8-8b72-b96ebe14d730)
 
-![fdfsf](https://user-images.githubusercontent.com/38296077/126984994-64da4f86-ea59-4df7-98dc-14df0822ae41.jpeg)
+
 
 - Some Slivers also.
 
-![dsad](https://user-images.githubusercontent.com/38296077/126985335-dea9eaa5-0c2d-4edd-89ac-466dc1c33f93.jpeg)
+![Screenshot_20240325-162720](https://github.com/kareemabdeen/RickAndMorty/assets/118139061/c7db2e38-33fd-4f11-9c05-38e0520445ce)
 
