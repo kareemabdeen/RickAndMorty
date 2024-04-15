@@ -43,7 +43,7 @@
 
 
 
-##🔭 Details Screen
+## 🔭 Details Screen
 
 - Used Hero animation widget .
 ![Screenshot_20240325-162716](https://github.com/kareemabdeen/RickAndMorty/assets/118139061/806cd966-079a-4ab8-8b72-b96ebe14d730)
