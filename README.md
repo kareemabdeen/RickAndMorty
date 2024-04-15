@@ -29,7 +29,7 @@
 
 ![Screenshot_20240325-162710](https://github.com/kareemabdeen/RickAndMorty/assets/118139061/cc0efa6b-c454-4f04-81f3-852cddd33d5b)
 
- ## :house: Search  Screen
+ ## :search: Search  Screen
 - Filter list by searching character's name.
 
 
